@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Emason\primitivetypes\src\main\scala\example\Functions.scala:11:40: not enough arguments for method pow: (x: Double, y: Double): Double.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter y.[0m
+[0m[[0m[31merror[0m] [0m[0m    def power(x:Int) : Double= math.pow(x)[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

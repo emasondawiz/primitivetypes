@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mFunctionsSpecs:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The max function should return the highest value between two integers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The power of the number to be returned is[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The isOddNumber returns a boolean[0m[0m
